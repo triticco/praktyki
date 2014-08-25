@@ -2,7 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="zadanie1/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/praktyki/opencsv-2.3/lib/junit-4.7.jar"/>
-	<classpathentry kind="lib" path="D:/praktyki/opencsv-2.3/deploy/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monika/Documents/GitHub/praktyki/opencsv-2.3/lib/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Monika/Documents/GitHub/praktyki/opencsv-2.3/deploy/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="opencsv-2.3/lib/junit-4.7.jar"/>
 	<classpathentry kind="output" path="zadanie1/build/classes"/>
 </classpath>
