@@ -1,4 +1,0 @@
-praktyki
-========
-
-praktyki InfoBrokering
